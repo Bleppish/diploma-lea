@@ -1,0 +1,9 @@
+SH01 - prez prozorec s durveta
+SH02 - desk
+SH03 - chete knigata v kushtata
+SH04 - prelistvane na kniga, samo ruka v shota
+SH06 - chete kniga(?), shot from front
+SH07 - dzver under desk
+SH08 - hodi iz staq
+SH09 - dzver pointva kniga
+BGSHOT - kushtata ot daleche
